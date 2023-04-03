@@ -1,0 +1,4 @@
+.b{
+    <button type="button" onclick="alert('O botão foi clicado!')" style="background-color: #4CAF50; color: white; padding: 12px 24px; border: none; border-radius: 4px; cursor: pointer;">Clique aqui</button>
+
+}
